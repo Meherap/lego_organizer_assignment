@@ -1,7 +1,7 @@
 
 -- Extra Credit: Additional sample data for the LEGO Organizer
 
--- Adding more LEGO sets with data sourced from the LEGO website
+-- Adding more LEGO sets from the LEGO website
 INSERT INTO lego_sets (name, description, piece_count, theme_id, added_by_collector_id) VALUES 
 ('LEGO Creator Expert Taj Mahal', 'Model of the famous Taj Mahal with over 5,900 pieces.', 5923, 2, 1),
 ('LEGO Star Wars Imperial Star Destroyer', 'Iconic Star Wars starship with realistic details.', 4784, 1, 2),
