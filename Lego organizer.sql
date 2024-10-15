@@ -1,5 +1,3 @@
-
--- Drop the database if it exists and then create a new one
 DROP DATABASE IF EXISTS lego_organizer;
 CREATE DATABASE lego_organizer;
 USE lego_organizer;
